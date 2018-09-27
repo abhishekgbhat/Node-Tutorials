@@ -1,0 +1,8 @@
+Q1 = In a Node program, is the event loop single threaded.
+
+Q2 = Is the entirety (the whole thing) of a Node program single threaded?
+
+
+
+
+
